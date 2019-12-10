@@ -8,6 +8,12 @@ import javax.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Here, City entity has 2 fields,it responsible for city classes
+ * @author Janani.V
+ * @since 12-10-2019
+ * 
+ */
 @Entity
 @Getter
 @Setter
